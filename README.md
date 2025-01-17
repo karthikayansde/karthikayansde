@@ -17,6 +17,7 @@
 </p>
 <h3 align="left">Are you a recruiter? Just click below to take a look at my resume.</h3>
 <p align="left">
+**[Click here to view my resume.](https://karthikayansde.github.io/assets-site/assets/Karthi Kayan R Software Developer Resume.pdf)**
 <a href="https://karthikayansde.github.io/assets-site/assets/Karthi Kayan R Software Developer Resume.pdf" target="blank"><img align="center" src="https://karthikayansde.github.io/assets-site/assets/image.png" alt="gmail" height="150" /></a><p>
 
 # 💻 Tech Stack:
