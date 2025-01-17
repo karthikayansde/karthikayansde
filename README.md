@@ -3,7 +3,7 @@
 <h3 align="center">I'm a self-taught, passionate software developer from India
 </h3>
 <img  align="right" src="https://karthikayansde.github.io/assets-site/assets/e2d377bf279e49d8af3c70d99d6eb91b.png">
-
+Software Engineer @ CI Global Technologies
 - 🔭 Here's my [portfolio](https://karthikayansde.github.io/portfolio)
 
 - 💬 Ask me how tech can help you.
