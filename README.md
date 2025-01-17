@@ -16,7 +16,8 @@
 <a href="https://leetcode.com/u/karthikayansde" target="blank"><img align="center" src="https://karthikayansde.github.io/assets-site/assets/16.png" alt="leetcode" height="30" /></a>
 </p>
 <h3 align="left">Are you a recruiter? Just click below to take a look at my resume.</h3>
-- [Click here to view my resume.](https://karthikayansde.github.io/assets-site/assets/Karthi%20Kayan%20R%20Software%20Developer%20Resume.pdf)
+
+**[Resume](https://karthikayansde.github.io/assets-site/assets/Karthi%20Kayan%20R%20Software%20Developer%20Resume.pdf)**
 <p align="left">
 <a href="https://karthikayansde.github.io/assets-site/assets/Karthi Kayan R Software Developer Resume.pdf" target="blank"><img align="center" src="https://karthikayansde.github.io/assets-site/assets/image.png" alt="gmail" height="150" /></a><p>
 
