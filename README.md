@@ -18,9 +18,8 @@
 <h3 align="left">Are you a recruiter? Just click below to take a look at my resume.</h3>
 <p align="left">
 <a href="https://karthikayansde.github.io/assets-site/assets/Karthi Kayan R Software Developer Resume.pdf" target="blank"><img align="center" src="https://karthikayansde.github.io/assets-site/assets/image.png" alt="gmail" height="150" /></a>
-
-  **[Resume](https://karthikayansde.github.io/assets-site/assets/Karthi%20Kayan%20R%20Software%20Developer%20Resume.pdf)**
-<p>
+<a href="https://karthikayansde.github.io/assets-site/assets/Karthi Kayan R Software Developer Resume.pdf" target="blank">Resume</a>
+</p>
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Cpp](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
